@@ -122,12 +122,3 @@ Haz un *Fork* de este repositorio, crea una nueva rama (*branch*), realiza tus a
 * [Fundación The Restart Project - Activismo por el derecho a reparar](https://therestartproject.org/)
 * [Greenpeace Internacional - Campañas de Green IT](https://www.greenpeace.org/international/)
 * [Unión Europea - Directivas WEEE sobre gestión de chatarra electrónica](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee_en)
-
----
-
-## 🎓 Cómo citar este proyecto
-
-Si utilizas material de este repositorio para tu investigación, artículos o trabajos académicos, te agradecemos que lo cites de la siguiente manera:
-
-```text
-[Tu Apellido, Inicial del Nombre]. (2026). Informática Ambiental: El impacto físico de un mundo digital. Repositorio de GitHub. Recuperado de: [https://github.com/TU-USUARIO/informatica-ambiental](https://github.com/TU-USUARIO/informatica-ambiental)
