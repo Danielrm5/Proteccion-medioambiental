@@ -6,13 +6,17 @@
 **Hacia una tecnología éticamente sostenible y responsable.**
 
 [![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github)](#)
-[![Colaboración](https://img.shields.io/badge/Colaboración-Abierta-blue?style=for-the-badge&logo=git)](#)
+[![Colaboración](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git)](#)
+[![Lenguaje](https://img.shields.io/badge/Lenguaje-Markdown-blue?style=for-the-badge&logo=markdown)](#)
 
 *Un proyecto colaborativo dedicado a documentar la huella ecológica de la industria tecnológica y explorar las soluciones basadas en el Green IT.*
 
 ---
 
 </div>
+
+> [!NOTE]
+> **Resumen Ejecutivo:** > Este repositorio investiga el coste físico real de nuestra infraestructura digital. Desmantela la idea de que la tecnología es inmaterial y propone alternativas tangibles basadas en la Informática Ecológica para alinear la innovación tecnológica con la preservación del ecosistema global.
 
 ## 📑 Índice de Contenidos
 1. [La Contaminación Tecnológica](#1-qué-es-la-contaminación-ambiental-en-la-era-digital)
@@ -63,7 +67,7 @@ En el sector informático, esta práctica adopta formas muy sofisticadas:
 2.  **Obsolescencia de Software (El apagón silencioso):** El hardware (la máquina física) sigue funcionando perfectamente, pero el fabricante decide dejar de actualizar el sistema operativo o emitir parches de seguridad. Las aplicaciones bancarias o de comunicación dejan de funcionar por "incompatibilidad del sistema", convirtiendo un ordenador potente en un pisapapeles forzoso. Además, se ha documentado la práctica del *throttling*, donde actualizaciones de software ralentizan intencionadamente procesadores antiguos para incentivar la compra de nuevos modelos.
 3.  **Obsolescencia Psicológica o Percibida:** El marketing agresivo convence al usuario de que su dispositivo está "obsoleto" simplemente porque ha salido al mercado un nuevo modelo con un color diferente o una cámara ligeramente mejor, aunque las especificaciones técnicas apenas hayan cambiado.
 
-> [!NOTE]
+> [!WARNING]
 > **El movimiento "Right to Repair" (Derecho a Reparar):** Es la resistencia ciudadana y legislativa frente a la obsolescencia. Exige normativas que obliguen a los fabricantes a hacer públicos los manuales de reparación, a vender piezas de repuesto a precios justos a talleres independientes y a diseñar equipos modulares fáciles de desmontar con herramientas comunes.
 
 ![Reparación de Hardware](https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1000&q=80)
@@ -119,3 +123,12 @@ Haz un *Fork* de este repositorio, crea una nueva rama (*branch*), realiza tus a
 * [Fundación The Restart Project - Activismo por el derecho a reparar](https://therestartproject.org/)
 * [Greenpeace Internacional - Campañas de Green IT](https://www.greenpeace.org/international/)
 * [Unión Europea - Directivas WEEE sobre gestión de chatarra electrónica](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee_en)
+
+---
+
+## 🎓 Cómo citar este proyecto
+
+Si utilizas material de este repositorio para tu investigación, artículos o trabajos académicos, te agradecemos que lo cites de la siguiente manera:
+
+```text
+[Tu Apellido, Inicial del Nombre]. (2026). Informática Ambiental: El impacto físico de un mundo digital. Repositorio de GitHub. Recuperado de: [https://github.com/TU-USUARIO/informatica-ambiental](https://github.com/TU-USUARIO/informatica-ambiental)
