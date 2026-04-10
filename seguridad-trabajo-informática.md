@@ -6,14 +6,16 @@
 ![Banner de Seguridad Informática](img/seguridad-informatica.png)
 
 ## 📋 Índice
-1. Introducción
-2. Riesgos Ergonómicos
-3. Fatiga Visual y Pantallas
-4. Riesgos Psicosociales en el Sector IT
-5. Seguridad Eléctrica y del Entorno
-6. Plan de Prevención (Checklist)
-7. Referencias
-8. Autores
+| Código ID | Módulo Temático |
+| :---: | :--- |
+| `SST-01` | [**📑 Introducción y Visión General**](#📑-1-introducción) |
+| `SST-02` | [**🪑 Riesgos Ergonómicos**](#🪑-2-riesgos-ergonómicos) |
+| `SST-03` | [**👁️ Fatiga Visual y Pantallas (PVD)**](#👁️-3-fatiga-visual-y-pantallas) |
+| `SST-04` | [**🧠 Riesgos Psicosociales IT**](#🧠-4-riesgos-psicosociales-en-el-sector-it) |
+| `SST-05` | [**⚡ Seguridad Eléctrica y del Entorno**](#⚡-5-seguridad-eléctrica-y-del-entorno) |
+| | | |
+
+---
 
 ## 📑 Introducción
 En la era digital, el trabajo de oficina y el desarrollo de software presentan riesgos específicos que, aunque menos visibles que en la industria pesada, pueden derivar en patologías crónicas. La prevención es la clave para la sostenibilidad del talento humano.
