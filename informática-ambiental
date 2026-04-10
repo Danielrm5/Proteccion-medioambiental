@@ -1,103 +1,115 @@
+<div align="center">
 
-# 🌱 Proyecto: Informática Ambiental
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop" alt="Banner Informática Ambiental" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;">
 
-[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](#)
-[![Colaborativo](https://img.shields.io/badge/Desarrollo-Colaborativo-blue.svg)](#)
+# 🌍 Informática Ambiental
+**Hacia un futuro tecnológico ético y sostenible**
 
-Bienvenidos al repositorio del proyecto **Informática Ambiental**. Este espacio está dedicado a la investigación, concienciación y búsqueda de soluciones sobre el impacto de la tecnología en nuestro entorno natural. Nuestro objetivo es promover un uso más ético y sostenible de los recursos tecnológicos.
+[![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github)](#)
+[![Colaboración](https://img.shields.io/badge/Colaboración-Abierta-blue?style=for-the-badge&logo=git)](#)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge)](#)
 
----
-
-## 📑 Índice
-1. [¿Qué es la contaminación ambiental?](#1-qué-es-la-contaminación-ambiental)
-2. [Residuos informáticos (RAEE)](#2-residuos-informáticos-raee)
-3. [Obsolescencia programada](#3-obsolescencia-programada)
-4. [Informática ecológica (Green Computing)](#4-informática-ecológica)
-5. [Autores y Colaboración](#5-autores-y-colaboración)
-6. [Referencias](#6-referencias)
-
----
-
-## 1. ¿Qué es la contaminación ambiental?
-
-La contaminación ambiental es la introducción de sustancias o elementos físicos en un medio físico (aire, agua, suelo) que lo hacen inseguro o no apto para su uso. Aunque tradicionalmente asociamos la contaminación a las chimeneas industriales o los tubos de escape, la **era digital ha creado una nueva y silenciosa huella ecológica**.
-
-El impacto del sector tecnológico comienza mucho antes de que encendamos un dispositivo: la minería de tierras raras para fabricar microchips, el inmenso consumo energético de los centros de datos (que alojan la nube) y la huella de carbono del transporte global de hardware son factores críticos en el calentamiento global actual.
-
-![Contaminación y tecnología](https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
-*Figura 1: El contraste entre el desarrollo tecnológico y la preservación natural.*
+[Contaminación Ambiental](#1-la-huella-invisible-contaminación-ambiental) •
+[Residuos (RAEE)](#2-residuos-informáticos-raee) •
+[Obsolescencia](#3-obsolescencia-programada) •
+[Green Computing](#4-informática-ecológica-green-computing) •
+[Colaborar](#5-colaboración-y-autores)
 
 ---
 
-## 2. Residuos informáticos (RAEE)
+</div>
 
-Los **Residuos de Aparatos Eléctricos y Electrónicos (RAEE)**, comúnmente conocidos como *e-waste*, representan el flujo de desechos de más rápido crecimiento en el mundo. 
+> [!IMPORTANT]
+> **Propósito del Proyecto:** Este repositorio colaborativo investiga el impacto oculto de la tecnología en nuestro ecosistema y documenta soluciones prácticas basadas en la Informática Ecológica (*Green Computing*). No basta con innovar; debemos hacerlo de forma sostenible.
 
-> 💡 **Dato alarmante:** Según la ONU, el mundo genera más de 50 millones de toneladas de residuos electrónicos al año, de los cuales apenas el 20% se recicla formalmente.
+## 1. La huella invisible: Contaminación Ambiental
 
-### Impacto de los componentes tóxicos:
-Un ordenador o un smartphone no es solo plástico y cristal; es una tabla periódica de elementos peligrosos:
-* **Plomo y Mercurio:** Presentes en pantallas y placas base. Su filtración en el suelo contamina acuíferos y daña el sistema nervioso de la fauna local.
-* **Cadmio:** Utilizado en baterías y semiconductores, es altamente cancerígeno y bioacumulable.
-* **Retardantes de llama bromados (BFR):** Usados en las carcasas de plástico, tardan siglos en degradarse y son tóxicos si se incineran.
+La contaminación ambiental tecnológica es la degradación del medio físico (aire, agua y suelo) derivada de la fabricación, uso y desecho de infraestructura digital. Aunque la tecnología parece "limpia" e intangible (como "la nube"), su soporte físico tiene un coste inmenso.
 
-![Vertedero de chatarra electrónica](https://images.unsplash.com/photo-1550041473-d14d79cebb49?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
-*Figura 2: La acumulación de componentes electrónicos en vertederos sin regular.*
+* **Minería extractiva:** La obtención de coltán, cobalto y tierras raras devasta ecosistemas y contamina acuíferos.
+* **Consumo energético masivo:** Los centros de datos mundiales consumen más electricidad que países enteros, emitiendo millones de toneladas de CO₂.
+* **Huella logística:** El transporte global de componentes y servidores añade una carga crítica de gases de efecto invernadero.
 
 ---
 
-## 3. Obsolescencia programada
+## 2. Residuos Informáticos (RAEE)
 
-La obsolescencia programada es la planificación intencionada del fin de la vida útil de un producto por parte del fabricante. El objetivo es forzar al consumidor a comprar un producto nuevo, alimentando un ciclo de hiperconsumo insostenible.
+Los **RAEE** (Residuos de Aparatos Eléctricos y Electrónicos) o *e-waste*, conforman la categoría de basura que más rápido crece a nivel global. El ciclo de vida hiperacelerado de la tecnología ha convertido al mundo en un vertedero electrónico.
 
-Existen tres variantes principales que afectan al sector IT:
-1.  **Obsolescencia funcional:** Un componente falla deliberadamente (ej. baterías soldadas que no se pueden reemplazar).
-2.  **Obsolescencia de software:** El hardware aún funciona, pero el sistema operativo o las apps dejan de darle soporte o lo ralentizan (*throttling*).
-3.  **Obsolescencia psicológica:** El marketing convence al usuario de que su dispositivo es "viejo" simplemente porque ha salido un nuevo diseño, aunque no haya mejoras técnicas significativas.
+> [!WARNING]
+> Apenas el **20%** de los más de 50 millones de toneladas de residuos electrónicos generados anualmente se reciclan a través de canales formales y seguros.
 
-**El Derecho a Reparar (*Right to Repair*):** Es un movimiento global en respuesta a esta práctica, que exige legislaciones para que los usuarios y talleres independientes tengan acceso a manuales y piezas de repuesto originales.
+<details>
+<summary><b>🧪 Clic aquí para ver los componentes tóxicos más comunes</b></summary>
 
----
-
-## 4. Informática Ecológica 
-
-La **Informática Ecológica** (*Green Computing* o *Green IT*) es el estudio y la práctica de diseñar, fabricar, usar y desechar ordenadores y subsistemas asociados de manera eficiente y con un impacto mínimo en el medio ambiente.
-
-### Pilares del Green IT:
-| Estrategia | Descripción | Ejemplo Práctico |
+| Elemento | Origen en el Hardware | Impacto Ambiental y en Salud |
 | :--- | :--- | :--- |
-| **Diseño Sostenible** | Crear hardware modular y reparable. | Iniciativas como el *Fairphone* o portátiles *Framework*. |
-| **Eficiencia Energética** | Reducir el consumo eléctrico durante el uso. | Uso de procesadores ARM, modos de suspensión profunda. |
-| **Virtualización** | Maximizar el uso de servidores existentes. | Usar máquinas virtuales para evitar fabricar y encender 10 servidores físicos distintos. |
-| **Economía Circular** | Reciclar y reutilizar componentes. | Donación de equipos corporativos a escuelas o fundaciones. |
+| **Plomo** | Soldaduras, monitores CRT antiguos. | Contamina el suelo; neurotóxico severo. |
+| **Cadmio** | Baterías, resistencias, semiconductores. | Bioacumulable; altamente cancerígeno. |
+| **Mercurio** | Interruptores, pantallas planas. | Contaminación de agua; daño cerebral. |
+| **BFR** | Carcasas de plástico (retardantes de llama). | Emisión de dioxinas letales al incinerarse. |
 
-![Tecnología y ecología](https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
-*Figura 3: La meta de la Informática Ecológica es la armonía entre innovación y sostenibilidad.*
-
----
-
-## 5. Autores y Colaboración
-
-Este trabajo ha sido desarrollado bajo una filosofía colaborativa. 
-
-**Autores:**
-* [Tu Nombre/Usuario] - *Investigación y redacción inicial*
-* [Nombre de Colaborador 1] - *[Rol]*
-* [Nombre de Colaborador 2] - *[Rol]*
-
-🤝 **¿Cómo colaborar?**
-Si quieres aportar a este proyecto, por favor realiza un *Fork* de este repositorio, crea una nueva rama (*branch*), realiza tus cambios y envía un *Pull Request*. Toda mejora a la información, nuevas referencias o correcciones son bienvenidas.
+</details>
 
 ---
 
-## 6. Referencias 
+## 3. Obsolescencia Programada
 
-Para profundizar en los datos y conceptos aquí presentados, puedes consultar los siguientes enlaces de interés:
+La obsolescencia programada es el diseño deliberado de un producto con una vida útil acortada de forma artificial. Esta estrategia de mercado obliga al consumidor a reemplazar sus dispositivos continuamente.
 
-* [Informe Global de Residuos Electrónicos (Global E-waste Monitor) - ONU](https://ewastemonitor.info/)
-* [Campaña de Tecnología Verde - Greenpeace](https://www.greenpeace.org/international/campaign/green-it/)
-* [Fundación The Restart Project (Derecho a Reparar)](https://therestartproject.org/)
-* [Agencia de Protección Ambiental de EE.UU. (EPA) - Gestión de Electrónicos](https://www.epa.gov/smm-electronics)
+### 📉 Tipos de Obsolescencia en IT:
+1. **Funcional (Hardware):** Componentes soldados con pegamentos industriales que impiden la sustitución de una batería o una memoria RAM.
+2. **De Software:** Actualizaciones de sistemas operativos que exigen especificaciones técnicas más altas o ralentizan intencionadamente dispositivos antiguos (*throttling*).
+3. **Psicológica:** Estrategias de marketing que vuelven "obsoleto" un dispositivo perfectamente funcional solo por cambios estéticos.
+
+> [!NOTE]
+> **El Derecho a Reparar (*Right to Repair*):** Es la respuesta legislativa y ciudadana que exige a los fabricantes proporcionar manuales, herramientas y piezas de repuesto originales a consumidores y talleres independientes.
 
 ---
-*Proyecto creado en 2026. Licencia MIT.*
+
+## 4. Informática Ecológica (*Green Computing*)
+
+El **Green IT** es la disciplina que busca maximizar la eficiencia energética y minimizar el impacto ambiental durante el diseño, fabricación, uso y reciclaje de la tecnología.
+
+<div align="center">
+
+| Estrategia 🛠️ | Aplicación Práctica 💡 | Impacto 🌍 |
+| :--- | :--- | :--- |
+| **Diseño Modular** | Equipos tipo *Fairphone* o *Framework Laptop*. | Facilita la reparación y evita desechar el 100% del equipo por un solo fallo. |
+| **Virtualización** | Uso de contenedores (Docker) y Máquinas Virtuales. | Reduce drásticamente la necesidad de servidores físicos, ahorrando energía y hardware. |
+| **Algoritmos Eficientes** | Optimización de código (ej. Rust vs Python en servidores). | Menor tiempo de procesamiento = menor consumo eléctrico en la CPU/GPU. |
+| **Economía Circular** | *Refurbishing* (reacondicionamiento) y reciclaje de metales. | Evita la minería extractiva y reduce los vertederos electrónicos. |
+
+</div>
+
+---
+
+## 5. Colaboración y Autores
+
+Este proyecto está vivo y se alimenta del conocimiento de la comunidad. Trabajamos de forma colaborativa usando Git.
+
+### 🧑‍💻 Equipo
+* **[@TuUsuarioGitHub](https://github.com/)** - *Líder del Proyecto / Redacción y Arquitectura*
+* **[@UsuarioColaborador1](#)** - *Investigador de Green IT*
+* **[@UsuarioColaborador2](#)** - *Especialista en RAEE*
+
+### 🛠️ ¿Cómo contribuir?
+1. Haz un *Fork* del repositorio.
+2. Clona el proyecto: `git clone https://github.com/TU-USUARIO/informatica-ambiental.git`
+3. Crea tu rama de características: `git checkout -b mejora-referencias`
+4. Haz tus *commits*: `git commit -m 'Añado sección sobre minería de litio'`
+5. Sube los cambios y abre un *Pull Request*.
+
+---
+
+## 6. Referencias
+
+* 📘 [Global E-waste Monitor (Naciones Unidas)](https://ewastemonitor.info/)
+* 📗 [The Restart Project - Activismo por el derecho a reparar](https://therestartproject.org/)
+* 📙 [Guía de Green IT - Greenpeace](https://www.greenpeace.org/international/)
+* 📕 [Normativas WEEE de la Unión Europea](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee_en)
+
+<div align="center">
+  <br>
+  <i>Investigado y documentado con rigor profesional. 2026.</i>
+</div>
